@@ -1,4 +1,4 @@
-### Hi, I'm KIM MIN GYU👋
+### KIM MIN GYU👋
 
 이력서 및 포트폴리오 : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
 
