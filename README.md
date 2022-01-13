@@ -1,5 +1,3 @@
-### KIM MIN GYU👋
-
 I'm Mingyu Kim 👋
 
 About me
