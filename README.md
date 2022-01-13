@@ -1,9 +1,10 @@
-I'm Mingyu Kim 👋
+### I'm Mingyu Kim 👋
 
-About me
+### About me
 🎓   Studying Multimedia-Engineering(major) and Intelligence Robot(bi-major) at the University of Dongguk.
 ✍️   Passionate about learning
 ✨   Profile : More About Me in Notion
+
 If you want to contact me, please leave me a message!
 
 
