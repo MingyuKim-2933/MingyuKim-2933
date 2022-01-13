@@ -1,5 +1,12 @@
 ### KIM MIN GYU👋
 
+I'm Mingyu Kim 👋
+About me
+🎓   Studying Multimedia-Engineering(major) and Intelligence Robot(bi-major) at the University of Dongguk.
+✍️   Passionate about learning
+✨   Profile : More About Me in Notion
+If you want to contact me, please leave me a mail!
+
 이력서 및 포트폴리오 : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
 
 <!--
