@@ -9,8 +9,7 @@
 
 If you want to contact me, please leave me a message!
 
-
-이력서 및 포트폴리오 : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
+CV and Portfolio : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
 
 <!--
 **MingyuKim-2933/MingyuKim-2933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
