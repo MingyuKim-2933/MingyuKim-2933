@@ -9,6 +9,8 @@
 
 If you want to contact me, please leave me a message!
 
+e-mail : alsrb3128@gmail.com
+
 CV and Portfolio : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
 
 <!--
