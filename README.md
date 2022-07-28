@@ -1,15 +1,15 @@
 ### I'm Mingyu Kim 👋
 
 ### About me
-- 🎓   Studying Multimedia-Engineering(major) and Intelligence Robot(bi-major) at the University of Dongguk.
+- 🎓   Studying Department of Intelligence Aritificial Intelligence at the Korea University.
 
-- ✍️   Passionate about learning
+- ✍️   Passionate about NLP and Computer Vision
 
 - ✨   Profile : More About Me in Notion
 
 If you want to contact me, please leave me a message!
 
-e-mail : alsrb3128@gmail.com
+e-mail : kmg2933@korea.ac.kr
 
 CV and Portfolio : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
 
