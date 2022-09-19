@@ -1,7 +1,7 @@
 ### I'm Mingyu Kim 👋
 
 ### About me
-- 🎓   I'm a Master's degree at the Department of Intelligence Aritificial Intelligence, Korea University.
+- 🎓   I'm a Master's degree at the Department of Aritificial Intelligence, Korea University.
 
 - ✍️   Passionate about NLP and Computer Vision
 
