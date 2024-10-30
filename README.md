@@ -3,7 +3,7 @@
 ### About me
 - 🎓   I'm a Master's degree at the Department of Aritificial Intelligence, Korea University.
 
-- ✍️   Passionate about NLP and Computer Vision
+- ✍️   Passionate about NLP and Generative AI
 
 - ✨   Profile : More About Me in Notion
 
