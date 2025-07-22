@@ -11,7 +11,7 @@ If you want to contact me, please leave me a message!
 
 e-mail : kmg2933@korea.ac.kr
 
-CV and Portfolio : https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28
+CV and Portfolio : bit.ly/mingyu96
 
 <!--
 **MingyuKim-2933/MingyuKim-2933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
